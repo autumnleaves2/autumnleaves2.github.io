@@ -1,0 +1,38 @@
+.btn-lg{
+	text-align: center;
+	display: block;
+	font-family: Lucida Console;
+	background-color: lightsalmon;
+	border-style: hidden;
+	margin: auto;
+	font-size: 35px;
+	color:white;
+
+}
+
+.navbar-brand{
+	float: right;
+	font-family: Lucida Console;
+	color:white;
+
+}
+.navbar {
+	background-color: lightsalmon;
+
+}
+.container {
+	color: lightsalmon;
+}
+
+.nav-link{
+	float:left;
+	color:white;
+}
+
+nav a:hover{
+	font-size:30px;
+	color: plum;
+	
+
+
+}

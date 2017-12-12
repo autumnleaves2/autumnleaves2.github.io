@@ -1,0 +1,43 @@
+body{
+	background: url("../img/autumn.jpg") no-repeat center center fixed;
+}
+
+.title{
+	background-color: lightsalmon;
+	text-align: center;
+	display: block;
+	font-family: Lucida Console; 
+	font-size: 72px;
+	margin-top: 43vh;
+	color: white;
+}
+
+.btn-lg{
+	text-align: center;
+	display: block;
+	font-family: Lucida Console;
+	background-color: lightsalmon;
+	border-style: hidden;
+	margin: auto;
+	font-size: 35px;
+	color: white;
+}
+
+.navbar-brand{
+	float: right;
+	font-family: Lucida Console;
+	color: white;
+}
+
+.navbar {
+	background-color: lightsalmon;
+}
+
+.container {
+	color: lightsalmon;
+}
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+.para{
+	border-color: dashed;
+	font-family: Lucida Console; 
+	text-align: center;
+	display: block;
+	color:white;
+	background-color: lightsalmon;
+}
+.title{
+	font-family: lucida console;
+	text-align: center;
+	display: block;
+	font-size: 72px;
+	margin-top: 43vh;
+
+}
+
+
+.profile
